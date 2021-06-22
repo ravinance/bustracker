@@ -2,6 +2,7 @@
 
 ## Description
 this is a project of realtime bustracking using an API for it and an API for the google map 
+it allows the user to follow the bus in realtime !
 
 
 ## How to use
